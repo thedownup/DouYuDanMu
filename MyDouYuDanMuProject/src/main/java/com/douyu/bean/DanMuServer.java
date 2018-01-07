@@ -1,6 +1,6 @@
 package com.douyu.bean;
 /**
- * zjy 2018年1月7日15:59:30
+ * zjt 2018年1月7日15:59:30
  */
 public class DanMuServer {
 	private String ip;
